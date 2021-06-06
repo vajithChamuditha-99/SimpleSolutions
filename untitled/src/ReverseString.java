@@ -8,8 +8,6 @@ public class ReverseString {
 
     public static void reverseWord(){
         char [] wordArr = word.toCharArray();
-        for (int i=wordArr.length-1; i>=0; i--){
-            System.out.print(wordArr[i]);
-        }
+
     }
 }

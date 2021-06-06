@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="932d2839-4592-4cfc-91e0-88401c4ce772" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TransformString">
+  <component name="RunManager" selected="Application.HouseRobber">
     <configuration name="AlteringStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlteringStrings" />
       <module name="untitled" />
@@ -54,15 +55,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpenditureMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExpenditureMedian" />
+    <configuration name="HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HouseRobber" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToySelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToySelector" />
+    <configuration name="NofStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NofStairs" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HouseRobber" />
+        <item itemvalue="Application.NofStairs" />
         <item itemvalue="Application.TransformString" />
         <item itemvalue="Application.BigInteger" />
         <item itemvalue="Application.AlteringStrings" />
-        <item itemvalue="Application.ExpenditureMedian" />
-        <item itemvalue="Application.ToySelector" />
       </list>
     </recent_temporary>
   </component>
@@ -107,22 +108,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622956196773" />
-    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1622983271022">
+    <state width="1306" height="392" key="GridCell.Tab.0.bottom" timestamp="1622993063402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622983271022" />
-    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1622983271022">
+    <state width="1306" height="392" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622993063402" />
+    <state width="1306" height="392" key="GridCell.Tab.0.center" timestamp="1622993063402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622983271022" />
-    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1622983271021">
+    <state width="1306" height="392" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622993063402" />
+    <state width="1306" height="392" key="GridCell.Tab.0.left" timestamp="1622993063402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622983271021" />
-    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1622983271022">
+    <state width="1306" height="392" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622993063402" />
+    <state width="1306" height="392" key="GridCell.Tab.0.right" timestamp="1622993063402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622983271022" />
+    <state width="1306" height="392" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622993063402" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1622914850620">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
