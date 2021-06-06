@@ -1,6 +1,6 @@
 public class TransformString {
     public static void main(String[] args) {
-        String wordOne="samankumara";
+        String wordOne="samankum";
         String twoWord="kamalsamira";
         transform(wordOne,twoWord);
     }
@@ -17,6 +17,8 @@ public class TransformString {
             length=twoArr.length;
             remain=arrOne.length-twoArr.length;
         }
+        System.out.println(remain);
+        remain=0;
         for (int i=0; i< length-1;i++){
             if (arrOne[i]!=twoArr[i]){
                 arrOne[i]=twoArr[i];
