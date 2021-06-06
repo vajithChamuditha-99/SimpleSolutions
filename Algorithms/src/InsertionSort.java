@@ -16,7 +16,6 @@ public class InsertionSort {
             }
             arr[i]=num;
         }
-
         return arr;
     }
 }
