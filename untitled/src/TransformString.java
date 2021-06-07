@@ -1,6 +1,8 @@
+import java.util.Arrays;
+
 public class TransformString {
     public static void main(String[] args) {
-        String wordOne="samankum";
+        String wordOne="samankumarass";
         String twoWord="kamalsamira";
         transform(wordOne,twoWord);
     }
@@ -10,29 +12,41 @@ public class TransformString {
         char [] twoArr=twoWord.toCharArray();
         int length;
         int remain;
+        boolean flag;
         if (arrOne.length<twoArr.length){
             length=arrOne.length;
             remain=twoArr.length-arrOne.length;
+            flag=true;
         }else {
             length=twoArr.length;
             remain=arrOne.length-twoArr.length;
+            flag=false;
         }
         System.out.println(remain);
-        remain=0;
-        for (int i=0; i< length-1;i++){
+
+        int remainder=0;
+        char[] arrOneNxt=new char[length];
+        for (int i=0; i< length;i++){
             if (arrOne[i]!=twoArr[i]){
-                arrOne[i]=twoArr[i];
-                remain++;
+                arrOneNxt[i]=twoArr[i];
+                remainder++;
+            }else{
+                arrOneNxt[i]=arrOne[i];
             }
         }
-        System.out.println(remain);
         for (int i=0; i<length; i++){
-            System.out.print(arrOne[i]);
+            System.out.print(arrOneNxt[i]);
         }
         System.out.println();
         for (int i=0; i<length; i++){
             System.out.print(twoArr[i]);
         }
-
+        System.out.println();
+        if (!flag){
+            System.out.println((remainder+remain));
+        }else{
+            System.out.println((remainder));
+        }
+        System.out.println(Arrays.toString(arrOne));
     }
 }
