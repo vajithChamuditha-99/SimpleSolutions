@@ -7,6 +7,7 @@ public class ReverseString {
     }
 
     public static void reverseWord(){
+        StringBuilder stringBuilder=new StringBuilder();
         char [] wordArr = word.toCharArray();
         for(int i=wordArr.length-1;i>=0;i--){
             System.out.print(wordArr[i]);

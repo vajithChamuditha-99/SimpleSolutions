@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="932d2839-4592-4cfc-91e0-88401c4ce772" name="Default Changelist" comment="Modified">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/first.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/TransformString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/TransformString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TransformString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TransformString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,26 +141,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1623003512777" />
-    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1622956196773">
+    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1623053529982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622956196773" />
-    <state width="1306" height="154" key="GridCell.Tab.0.bottom" timestamp="1623044169605">
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623053529982" />
+    <state width="1306" height="154" key="GridCell.Tab.0.bottom" timestamp="1623054392721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623044169605" />
-    <state width="1306" height="154" key="GridCell.Tab.0.center" timestamp="1623044169605">
+    <state width="1306" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623054392721" />
+    <state width="1306" height="154" key="GridCell.Tab.0.center" timestamp="1623054392720">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623044169605" />
-    <state width="1306" height="154" key="GridCell.Tab.0.left" timestamp="1623044169604">
+    <state width="1306" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623054392720" />
+    <state width="1306" height="154" key="GridCell.Tab.0.left" timestamp="1623054392720">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623044169604" />
-    <state width="1306" height="154" key="GridCell.Tab.0.right" timestamp="1623044169605">
+    <state width="1306" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623054392720" />
+    <state width="1306" height="154" key="GridCell.Tab.0.right" timestamp="1623054392720">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623044169605" />
+    <state width="1306" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623054392720" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1622914850620">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -186,10 +181,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1622915239080" />
-    <state x="65" y="0" key="new project wizard" timestamp="1622956200377">
+    <state x="65" y="0" key="new project wizard" timestamp="1623053534798">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1622956200377" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1623053534798" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1622889741590">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
