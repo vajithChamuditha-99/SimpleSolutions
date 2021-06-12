@@ -12,8 +12,17 @@ public abstract class Writer {
     public static void method3() {
 
     }
+    private String writerID;
 
-//    public abstract static void method4();
+    public Writer(String writerID) {
+        this.writerID = writerID;
+    }
+
+    public String getWriterID() {
+        return writerID;
+    }
+    public abstract void write();
+    //    public abstract static void method4();
 //    public abstract final void method5();
 
 }
