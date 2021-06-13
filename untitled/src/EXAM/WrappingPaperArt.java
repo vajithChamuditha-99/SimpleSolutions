@@ -21,11 +21,13 @@ public class WrappingPaperArt {
     Object lock;
     String pattern;
     int count;
+
     public Pattern01(Object lock, String pattern, int count) {
         this.lock = lock;
         this.pattern = pattern;
         this.count = count;
     }
+    
     @Override
     public void run() {
         synchronized (lock) {
