@@ -27,7 +27,7 @@ public class WrappingPaperArt {
         this.pattern = pattern;
         this.count = count;
     }
-    
+
     @Override
     public void run() {
         synchronized (lock) {
