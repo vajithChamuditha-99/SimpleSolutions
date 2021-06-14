@@ -5,7 +5,6 @@ public class ReverseString {
     public static void main(String[] args) {
         reverseWord();
     }
-
     public static void reverseWord(){
         StringBuilder stringBuilder=new StringBuilder(word);
         stringBuilder=stringBuilder.reverse();
