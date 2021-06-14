@@ -51,6 +51,7 @@ public class WrappingPaperArt {
         }
     }
 }
+
 class Pattern02 implements Runnable{
     Object lock;
     String pattern;
